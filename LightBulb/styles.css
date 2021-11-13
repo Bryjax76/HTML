@@ -1,0 +1,41 @@
+html{
+	height: 100%;
+	width: 100%;
+	background: #080000;
+}
+body{
+	height: 98%;
+}
+h1{
+	color: white;
+	padding-bottom: 10rem;
+}
+.img_bulb{
+	max-height: 150px;
+}
+.container{
+	height: auto;
+}
+.bulb{
+ text-align: center;
+}
+.bulb_on{
+	display: flex;
+	padding-top: 10rem;
+	padding-left: 20rem;
+	justify-content: center;
+	align-items: center;
+}
+.bulb_off{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.butt{
+	padding: 10px;
+}
+button{
+	padding: 1rem;
+	margin: 2rem;
+}
+
